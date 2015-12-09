@@ -1,5 +1,3 @@
-# Sport-League-Simulation
-
 /**
 Sports League Simulation
 =====
