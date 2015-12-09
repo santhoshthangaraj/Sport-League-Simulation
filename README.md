@@ -1,4 +1,3 @@
-/**
 Sports League Simulation
 =====
 
